@@ -1,0 +1,6 @@
+[user]
+	name = sergei
+	email = 777lsg@gmail.com
+
+[alias]
+	history = log --graph
